@@ -1,0 +1,7 @@
+{
+  "name": "marriage-calculator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
